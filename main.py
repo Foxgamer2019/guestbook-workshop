@@ -2,10 +2,10 @@ from contextlib import asynccontextmanager
 
 import psycopg
 from fastapi import FastAPI
-from pydantic import BaseModel
+from pydantic import Bafnkllmjlfgjgjnslvxxxxzzппптыфв
 
 # ⚠️ Пока всё зашито прямо в код — это и предстоит исправить.
-DATABASE_URL = "postgresql://guestbook:supersecret123@localhost:5432/guestbook"
+DATABASE_URL = "postgresql://appuser:devsecret@db:5432/appdb"
 GREETING = "Добро пожаловать в гостевую книгу!"
 
 
